@@ -1,4 +1,3 @@
-//Made by Tomasz Piasecki
 //Swimmer - The Game
 //Game works by 2D rendering in a console
 
