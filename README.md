@@ -1,4 +1,4 @@
-# 2D Console Render Game Swimmer
+# 2D Console Render: Swimmer Game
 Works only on windows!
 
 **Gameplay**
