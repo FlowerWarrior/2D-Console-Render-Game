@@ -1,6 +1,6 @@
 # 2D Console Render: Swimmer Game
 Works only on windows!
-
+<pre>
 **Gameplay**
 - Collect coins
 - Avoid fish
@@ -16,3 +16,4 @@ Works only on windows!
 **Screenshots**
 
 <img src="https://i.ibb.co/fXbwMb8/1.png" width="400" />        <img src="https://i.ibb.co/Nmt8SgZ/2.png" width="400" />
+</pre>
