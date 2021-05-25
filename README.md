@@ -7,7 +7,7 @@ Works only on windows!
 
 **Controls**
 - Singleplayer AWSD
-- Multiplayer AWSD / Arrows
+- Multiplayer AWSD + Arrows
 
 **Screenshots**
 
