@@ -1,6 +1,9 @@
 # 2D Console Render Game Swimmer
 Works only on windows!
 
+**Gameplay**
+- Collect coins
+- Avoid fish
 
 **Singleplayer (controls: WASD)**
 
