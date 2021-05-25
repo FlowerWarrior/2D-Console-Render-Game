@@ -1,11 +1,11 @@
 # 2D Console Render Game Swimmer
 Works only on windows!
 
-Singleplayer:
+Singleplayer (controls: WASD):
 
 <img src="https://i.ibb.co/fXbwMb8/1.png" width="400" height="400" />
 
-Multiplayer:
+Multiplayer (controls: WASD and ARROWS):
 
 <img src="https://i.ibb.co/Nmt8SgZ/2.png" width="400" height="400" />
 
